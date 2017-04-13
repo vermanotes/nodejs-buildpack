@@ -4,7 +4,7 @@ default_versions:
 - name: yarn
   version: 0.22.0
 - name: node
-  version: 4.8.2
+  version: 7.7.4
 exclude_files:
 - ".git/"
 - ".gitignore"
